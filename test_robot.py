@@ -2,7 +2,7 @@ import pytest
 
 from robot import Robot, Direction, IllegalMoveException
 
-//hi
+%hi
 @pytest.fixture
 def robot():
     return Robot()
